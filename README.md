@@ -8,3 +8,11 @@ Arduino Node-MCU module has been used to implement the hardware portion.
   3. Smatphone or desktop pc which has internet access
   
 ## Installation
+In the arduino `.ino` file in the following commented code
+````
+//const char* ssid = " ";
+//const char* password = "";
+````
+
+in `ssid` the name of the wifi connection and in `password` the password corresponding to the wifi connection has to be provided and then the lines are needed to be uncommented.
+
