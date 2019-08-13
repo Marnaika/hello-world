@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
  
-const char* ssid = "Realme 2 Pro";
-const char* password = "12345678";
+//const char* ssid = " ";
+//const char* password = "";
 int a=2,b=4,c=5;
  
 void setup () {
